@@ -1,4 +1,4 @@
-# Spurious Correlations on SpuCoMNIST: ERM, then GEORGE-style group balancing
+# Spurious Correlations on SpuCoMNIST: ERM and GEORGE group balancing
 
 Notebook (`spuco_george_asg.ipynb`) implementing the three-step GEORGE pipeline (ERM, class-wise clustering of ERM features, group-balanced retraining) with the [SpuCo](https://spuco.readthedocs.io/en/latest/) package, following the [SpuCo quickstarts](https://github.com/BigML-CS-UCLA/SpuCo/tree/master/quickstart/spuco_mnist). By Alexander Lio (alio at ucla dot edu).
 
